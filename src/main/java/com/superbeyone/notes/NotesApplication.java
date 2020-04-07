@@ -3,11 +3,14 @@ package com.superbeyone.notes;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author superbeyone
+ */
 @SpringBootApplication
-public class SuperbeyoneNotesApplication {
+public class NotesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SuperbeyoneNotesApplication.class, args);
+        SpringApplication.run(NotesApplication.class, args);
     }
 
 }
