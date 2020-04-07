@@ -6,6 +6,9 @@
 .settings
 .springBeans
 .sts4-cache
+.gradle/*
+.gradle
+build/
 
 ### IntelliJ IDEA ###
 .idea
